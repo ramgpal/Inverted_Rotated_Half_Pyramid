@@ -1,0 +1,2 @@
+# Inverted_Rotated_Half_Pyramid
+Pattern
